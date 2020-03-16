@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW1_GuessingGame</string>
+    <string name="verification_code_subtext">Por favor ingresa un numero entre 1 y 1000 e intenta adivinar el número.</string>
+    <string name="verification_code">HW1 GuessingGame</string>
+    <string name="continuar">Seguir jugando</string>
+    <string name="validate">Validar</string>
+    <string name="development">Juan Conde</string>
+</resources>
